@@ -1,0 +1,95 @@
+[33mcommit e0607fa782b5aa12e830f41005cda7a4af59aca6[m
+Merge: 07b168b 17b0343
+Author: Fabio Fedelix <fabio.fedelix@ogilvy.com>
+Date:   Thu Oct 16 15:19:58 2014 -0300
+
+    Merge branch 'master' of github.com:denis-souza/treinamento-git
+
+[33mcommit 17b03430072ea3e801e52fc20fa4e77866bb7ba6[m
+Merge: b24dcac 13e1855
+Author: Janaina <janaina.ismerio@foster.com.br>
+Date:   Thu Oct 16 15:19:22 2014 -0300
+
+    Merge branch 'master' of github.com:denis-souza/treinamento-git
+
+[33mcommit b24dcac774f9073fe696b2b9d8fd5bd2cb4d3387[m
+Author: Janaina <janaina.ismerio@foster.com.br>
+Date:   Thu Oct 16 15:19:05 2014 -0300
+
+    teste da Jana
+
+[33mcommit 07b168b7f1ac07de4f586ca138381df6d12db80f[m
+Author: Fabio Fedelix <fabio.fedelix@ogilvy.com>
+Date:   Thu Oct 16 15:17:34 2014 -0300
+
+    fabio
+
+[33mcommit 13e185505eb158e5d1b498a8a7da21360e136185[m
+Merge: cf1fbde e8586de
+Author: Nick Roger <nick.luz@foster.com.br>
+Date:   Thu Oct 16 15:16:36 2014 -0300
+
+    Merge branch 'master' of github.com:denis-souza/treinamento-git
+
+[33mcommit e8586dee9f1cb1284466726332f6e60ed36c5df1[m
+Author: Reuniao Foster <reuniaofoster@BRSP0H4ZE3X.local>
+Date:   Thu Oct 16 15:16:18 2014 -0300
+
+    Vinicius Moraes
+
+[33mcommit d1e1e3e5044ff31aa8849a53cf86b85adfd1795f[m
+Merge: 53df2cc d2d8655
+Author: Bruno Soares <bruno.soares@foster.com.br>
+Date:   Thu Oct 16 15:14:48 2014 -0300
+
+    Merge branch 'master' of github.com:denis-souza/treinamento-git
+
+[33mcommit cf1fbde05b60d2c30d0fb1f25969bcae2e944264[m
+Author: Nick Roger <nick.luz@foster.com.br>
+Date:   Thu Oct 16 15:14:32 2014 -0300
+
+    html do meu nome Nick Roger
+
+[33mcommit 53df2ccb0ee87f743d1b93c39b557d2f3753dada[m
+Author: Bruno Soares <bruno.soares@foster.com.br>
+Date:   Thu Oct 16 15:14:26 2014 -0300
+
+    brunosoares
+
+[33mcommit d2d865553be879f9551fc8416786120d5efdee0d[m
+Merge: a35906f ab046ca
+Author: Renato D'Arrigo <renato.darrigo@foster.com.br>
+Date:   Thu Oct 16 15:13:56 2014 -0300
+
+    Merge branch 'master' of github.com:denis-souza/treinamento-git
+
+[33mcommit a35906ff7d70ce819b8fcbcfc694682f793606ce[m
+Author: Renato D'Arrigo <renato.darrigo@foster.com.br>
+Date:   Thu Oct 16 15:13:38 2014 -0300
+
+    adding my file
+
+[33mcommit ab046cafb3fb9eb9dfea37a8bcf4555e11662cce[m
+Author: Fernando Nunes <gnomonunes@gmail.com>
+Date:   Thu Oct 16 15:13:29 2014 -0300
+
+    Arquivo do Nunes
+
+[33mcommit 70184c4e782212bf38cfd034e37c396bad214cac[m
+Merge: 749bada 8fcd370
+Author: Denis Souza <denis@merchannew.com.br>
+Date:   Thu Oct 16 15:11:05 2014 -0300
+
+    Merge branch 'master' of github.com:denis-souza/treinamento-git
+
+[33mcommit 749badaa028ac5bb594aba05b57215899b055514[m
+Author: Denis Souza <denis@merchannew.com.br>
+Date:   Thu Oct 16 15:08:55 2014 -0300
+
+    Initial commit
+
+[33mcommit 8fcd3704eaaf49594c8f6dd715d3777f52c0b368[m
+Author: denis-souza <denis@merchannew.com.br>
+Date:   Thu Oct 16 12:57:43 2014 -0300
+
+    Create README.md
